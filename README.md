@@ -12,6 +12,7 @@ Awesome lists about some kinds of interesting topics.
     - [English podcasts](#english-podcasts-1)
     - [Russian podcasts](#russian-podcasts-1)
     - [Ukrainian podcasts](#ukrainian-podcasts)
+  - [CLI utilities](#cli-utilities)
 
 
 ## IT Podcasts
@@ -41,3 +42,9 @@ Awesome lists about some kinds of interesting topics.
 ### Ukrainian podcasts
 
 - [Shit I know](https://shitiknow.live/) - Software developer with  VP of Innovation are talking about non-IT stuff [SoundCloud directLink](https://soundcloud.com/shit_i_know_live_podcast)
+
+
+## CLI utilities
+
+- [bat](https://github.com/sharkdp/bat):  A cat(1) clone with syntax highlighting and Git integration.
+- [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy): Good-lookin' diffs.
